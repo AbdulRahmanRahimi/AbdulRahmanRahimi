@@ -38,20 +38,22 @@ I build web GIS applications and full-stack business software. My GIS work is in
 
 ## Client systems
 
-Built and maintained through Rahimi Tech Solution. The code stays private to each client.
+Built and maintained through Rahimi Tech Solution. Each link opens a project overview; the code stays private to each client.
 
-- **SARAI ERP for Waheed Ghani**: dual-currency (AFN / USD), English–Pashto double-entry ERP for a cooking-oil and sugar import and distribution business
-- **Akhwat Group**: production and inventory system for a veterinary medicine manufacturer in Jalalabad
-- **SAFIA ERP for Shaistakhil Trading Company**: farmer purchases and instalments, processing, sales and export, with double-entry accounting in AFN, USD and INR
-- **AURUM Money Services**: auditable, append-only ledger for a mobile money services company
-- **New Afghan Shinwari Printing Services**: inventory, customer orders, customer and supplier accounts, and WhatsApp notices
-- **Mahmood Shah Auto Recycler** (Vancouver): shared parts inventory, sales and profit reporting for four partners
-- **Poultry supply store system**: a reusable store-management system running for Royani Poultry Supply Store, Hadi Poultry Services and Anas Hadi Poultry
-- **Dar alBaraka**: website for Afghan travel and Umrah packages
-- **Community fund app** (British Columbia): contributions and member-voted, interest-free loans for a community fund
-- **Kargar**: service-finder mobile app in English, Pashto and Dari (React Native, Expo)
+| Project | What it does | Stack |
+|---|---|---|
+| [SARAI ERP for Waheed Ghani](https://github.com/rahimiabdulrahmanab/sarai-erp) | Dual-currency (AFN / USD), English–Pashto double-entry ERP for an import and distribution business | Next.js · TypeScript · Supabase |
+| [Akhwat Group: Production & Inventory](https://github.com/rahimiabdulrahmanab/akhwat-group-production-inventory) | Production, inventory and quality control for a veterinary medicine manufacturer in Jalalabad | Next.js · TypeScript · Supabase |
+| [SAFIA ERP for Shaistakhil Trading Company](https://github.com/rahimiabdulrahmanab/safia-erp) | Farmer purchases, processing, export and accounting in AFN, USD and INR | Next.js · TypeScript · Supabase |
+| [Shinwari Press Management System](https://github.com/rahimiabdulrahmanab/shinwari-press-management-system) | Inventory, orders, customer and supplier accounts, and WhatsApp notices for a printing business | Next.js · Supabase |
+| [AURUM Money Services Ledger](https://github.com/rahimiabdulrahmanab/aurum-money-services-ledger) | Auditable, append-only ledger for a mobile money services company | React · TypeScript · Supabase |
+| [Mahmood Shah Auto Recycler](https://github.com/rahimiabdulrahmanab/mahmood-shah-auto-recycler) | Shared real-time parts inventory and sales for a Vancouver auto recycler | Next.js · Supabase · PWA |
+| [Poultry Store Management System](https://github.com/rahimiabdulrahmanab/poultry-store-management-system) | Point of sale, inventory and accounts, running for three poultry supply businesses | React · Vite · Supabase |
+| [Community Fund App](https://github.com/rahimiabdulrahmanab/community-fund-app) | Contributions and member-voted, interest-free loans for a community fund in BC | Next.js · Supabase · PWA |
+| [Dar alBaraka website](https://github.com/rahimiabdulrahmanab/dar-albaraka-travel-website) | Website for a Kabul travel agency: Afghanistan tours and Umrah packages | HTML · CSS · JavaScript |
+| [Rahimi Finance](https://github.com/rahimiabdulrahmanab/rahimi-finance) | Internal finance app: project profit splits and a real-time cash book | Next.js · Supabase · PWA |
 
-Typical stack: Next.js · TypeScript · Supabase / PostgreSQL · Tailwind CSS · Vercel
+Also: **Kargar**, a service-finder mobile app in English, Pashto and Dari (React Native, Expo).
 
 ## Rahimi Tech Solution
 
