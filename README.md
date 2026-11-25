@@ -22,28 +22,28 @@ I build web GIS dashboards and business software: ERP, inventory and accounting 
 
 ## Featured work
 
-- **[Akhwat Group: Production & Inventory](https://github.com/rahimiabdulrahmanab/akhwat-group-production-inventory)**: manufacturing, stock and quality control for a veterinary medicine manufacturer
-- **[SAFIA ERP](https://github.com/rahimiabdulrahmanab/safia-erp)**: from farmer purchases to export, with accounting in AFN, USD and INR
-- **[SARAI ERP](https://github.com/rahimiabdulrahmanab/sarai-erp)**: dual-currency, double-entry ERP for an import and distribution business
-- **[Afghanistan Clinics Dashboard](https://github.com/rahimiabdulrahmanab/afghanistan-clinics-dashboard)**: web GIS map of health clinics with filters and charts · [live demo](https://clinics-gilt.vercel.app)
-- **[Badakhshan Health Facilities Map](https://github.com/rahimiabdulrahmanab/badakhshan-health-facilities-map)**: 116 health facilities across 29 districts, with coverage analysis · [live demo](https://mapping-project-ngo.vercel.app)
-- **[Taif School System](https://github.com/rahimiabdulrahmanab/taif-high-school-management-system)**: school management system for the web and desktop
+- **[Akhwat Group: Production & Inventory](https://github.com/AbdulRahmanRahimi/akhwat-group-production-inventory)**: manufacturing, stock and quality control for a veterinary medicine manufacturer
+- **[SAFIA ERP](https://github.com/AbdulRahmanRahimi/safia-erp)**: from farmer purchases to export, with accounting in AFN, USD and INR
+- **[SARAI ERP](https://github.com/AbdulRahmanRahimi/sarai-erp)**: dual-currency, double-entry ERP for an import and distribution business
+- **[Afghanistan Clinics Dashboard](https://github.com/AbdulRahmanRahimi/afghanistan-clinics-dashboard)**: web GIS map of health clinics with filters and charts · [live demo](https://clinics-gilt.vercel.app)
+- **[Badakhshan Health Facilities Map](https://github.com/AbdulRahmanRahimi/badakhshan-health-facilities-map)**: 116 health facilities across 29 districts, with coverage analysis · [live demo](https://mapping-project-ngo.vercel.app)
+- **[Taif School System](https://github.com/AbdulRahmanRahimi/taif-high-school-management-system)**: school management system for the web and desktop
 
 ## More client work
 
-[Shinwari Press](https://github.com/rahimiabdulrahmanab/shinwari-press-management-system) ·
-[AURUM Money Services](https://github.com/rahimiabdulrahmanab/aurum-money-services-ledger) ·
-[Poultry Store System](https://github.com/rahimiabdulrahmanab/poultry-store-management-system) ·
-[Mahmood Shah Auto Recycler](https://github.com/rahimiabdulrahmanab/mahmood-shah-auto-recycler) ·
-[Community Fund App](https://github.com/rahimiabdulrahmanab/community-fund-app) ·
-[Dar alBaraka](https://github.com/rahimiabdulrahmanab/dar-albaraka-travel-website) ·
-[Rahimi Finance](https://github.com/rahimiabdulrahmanab/rahimi-finance)
+[Shinwari Press](https://github.com/AbdulRahmanRahimi/shinwari-press-management-system) ·
+[AURUM Money Services](https://github.com/AbdulRahmanRahimi/aurum-money-services-ledger) ·
+[Poultry Store System](https://github.com/AbdulRahmanRahimi/poultry-store-management-system) ·
+[Mahmood Shah Auto Recycler](https://github.com/AbdulRahmanRahimi/mahmood-shah-auto-recycler) ·
+[Community Fund App](https://github.com/AbdulRahmanRahimi/community-fund-app) ·
+[Dar alBaraka](https://github.com/AbdulRahmanRahimi/dar-albaraka-travel-website) ·
+[Rahimi Finance](https://github.com/AbdulRahmanRahimi/rahimi-finance)
 
 ## Websites & other projects
 
-[Rahimi Tech Solution](https://github.com/rahimiabdulrahmanab/rahimi-tech-solution-website) ·
-[Friendz Auto Sales](https://github.com/rahimiabdulrahmanab/friendz-auto-website) ·
-[RulexxPlus](https://github.com/rahimiabdulrahmanab/rulexx-plus-website) ·
-[Safia](https://github.com/rahimiabdulrahmanab/safia-brand-website) ·
-[Kargar Admin](https://github.com/rahimiabdulrahmanab/kargar-admin-panel) ·
-[Clinics Map (Python)](https://github.com/rahimiabdulrahmanab/clinics-map-streamlit)
+[Rahimi Tech Solution](https://github.com/AbdulRahmanRahimi/rahimi-tech-solution-website) ·
+[Friendz Auto Sales](https://github.com/AbdulRahmanRahimi/friendz-auto-website) ·
+[RulexxPlus](https://github.com/AbdulRahmanRahimi/rulexx-plus-website) ·
+[Safia](https://github.com/AbdulRahmanRahimi/safia-brand-website) ·
+[Kargar Admin](https://github.com/AbdulRahmanRahimi/kargar-admin-panel) ·
+[Clinics Map (Python)](https://github.com/AbdulRahmanRahimi/clinics-map-streamlit)
