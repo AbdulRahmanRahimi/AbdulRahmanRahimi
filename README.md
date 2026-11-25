@@ -27,7 +27,7 @@ I build web GIS dashboards and business software: ERP, inventory and accounting 
 - **[SARAI ERP](https://github.com/rahimiabdulrahmanab/sarai-erp)**: dual-currency, double-entry ERP for an import and distribution business
 - **[Afghanistan Clinics Dashboard](https://github.com/rahimiabdulrahmanab/afghanistan-clinics-dashboard)**: web GIS map of health clinics with filters and charts · [live demo](https://clinics-gilt.vercel.app)
 - **[NGO Project Mapping](https://github.com/rahimiabdulrahmanab/ngo-project-mapping)**: facility coverage map with in-browser spatial analysis · [live demo](https://mapping-project-ngo.vercel.app)
-- **[Taif School System](https://github.com/rahimiabdulrahmanab/taif-school-system)**: school management system for the web and desktop
+- **[Taif School System](https://github.com/rahimiabdulrahmanab/taif-high-school-management-system)**: school management system for the web and desktop
 
 ## More client work
 
