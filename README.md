@@ -47,3 +47,11 @@ I build web GIS dashboards and business software: ERP, inventory and accounting 
 [Safia](https://github.com/AbdulRahmanRahimi/safia-brand-website) ·
 [Kargar Admin](https://github.com/AbdulRahmanRahimi/kargar-admin-panel) ·
 [Clinics Map (Python)](https://github.com/AbdulRahmanRahimi/clinics-map-streamlit)
+
+## Academic projects (Bachelor's degree)
+
+[Core Banking System](https://github.com/AbdulRahmanRahimi/core-banking-system) ·
+[Disease Surveillance & Mapping (HMIS)](https://github.com/AbdulRahmanRahimi/disease-surveillance-mapping-system) ·
+[Blockchain Cryptocurrency](https://github.com/AbdulRahmanRahimi/python-blockchain-cryptocurrency) ·
+[Face-Recognition Attendance](https://github.com/AbdulRahmanRahimi/face-recognition-attendance-system) ·
+[OCR Document Automation](https://github.com/AbdulRahmanRahimi/ocr-document-automation)
